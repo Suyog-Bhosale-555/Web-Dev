@@ -1,0 +1,36 @@
+body{
+    background-color: #212121;
+}
+.input{
+    background-color: #616161;
+    color: #ffffff;
+    width: 250px;
+    height: 30px;
+    border-radius: 20px;
+    border-color: #0a0a0a;
+    border-width: 3px;
+}
+button{
+    background-color: #83fc7f;
+    color: #292828;
+    font-size: x-large;
+    height: 37px;
+    width: 40px;
+    border-radius: 10px;
+    border-color: #8bff87;
+    border-width: 3.6px;
+    cursor: pointer;
+
+}
+
+.form1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-left: 30%;
+    padding-right: 30%;
+
+    
+}
+
+
